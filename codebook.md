@@ -1,6 +1,6 @@
 ## secTidySet.txt description
 
-This data file contains 180 rows and 68 columns. Each row has averaged variables for each subject and each activity.
+This data file contains 180 rows and 82 columns. Each row has averaged variables for each subject and each activity.
 Only all the variables estimated from mean and standard deviation in the tidy set were kept.
 
     mean(): Mean value
@@ -17,7 +17,7 @@ Subject column is numbered sequentially from 1 to 30. Activity column has 6 type
    5. STANDING
    6. LAYING
 
-The tidy data set contains 6 rows (averaged based on activity) and 68 columns (66 variables and activity labels).
+The tidy data set contains 6 rows (averaged based on activity) and 82 columns (80 variables and 2 activity labels).
 
 ### variables 
 
